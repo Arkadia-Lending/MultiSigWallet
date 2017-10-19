@@ -63,3 +63,6 @@ multisigWallet.zip
 
 # Truffle
 /build
+
+# Keep key file hidden
+keys.js
